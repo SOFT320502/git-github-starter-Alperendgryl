@@ -1,4 +1,4 @@
-# Hi, my name is Muhammed Alperen DOGRUYOL.
+# Hi, my name is Muhammed Alperen DOGRUYOL...
 
 Website (
 <a href="https://alperendogruyol.com.tr/" target="blank"><img align="center" src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/Logo.png" alt="Medium" height="20" width="43" /></a> )
